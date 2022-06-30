@@ -1,0 +1,20 @@
+SETUP
+1. REMOTE - add contributors
+2. REMOTE - everybody clones repo
+3. REMOTE - create 'develop' branch
+4. REMOTE - create '<your-name>' branches
+5. LOCAL - create '<your-name>' branch
+
+GIT WORKFLOW
+
+
+QUESTIONS TO ASK YOURSELF
+What remote branch am I on?
+What local branch am I on?
+What does my status look like?
+What changes have I made since my last commit?
+What branch am I about to push to?
+What branches are merging?
+
+MISTAKES TO INTENTIONALLY MAKE
+Make changes before pull
