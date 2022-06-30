@@ -6,7 +6,20 @@ SETUP
 5. LOCAL - create '<your-name>' branch
 
 GIT WORKFLOW
-
+*name branch is really a ticket
+1. Create local <name> branch
+2. Create remote <name> branch
+3. Make changes to code
+4. Commit and push to remote <name> branch
+5. Create pull request to <develop> branch
+6. Delete remote <name> branch
+7. After all contributors create pull request to <develop>
+    - create pull request from <develop> to <main>
+8. Switch local branch to <main>
+9. Pull from remote <main>
+10. Delete local <name> branch
+11. Create new local <name> branch
+12. Create new remote <name> branch
 
 QUESTIONS TO ASK YOURSELF
 What remote branch am I on?
